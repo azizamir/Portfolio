@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aziz&#39;s Portfolio on Amirul Abdul Aziz</title>
+    <link>https://azizamir.github.io/portfolio/</link>
+    <description>Recent content in Aziz&#39;s Portfolio on Amirul Abdul Aziz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://azizamir.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>World Earthquake and Volcanic Eruption Data Analysis</title>
+      <link>https://azizamir.github.io/portfolio/projects/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://azizamir.github.io/portfolio/projects/chapter-1/</guid>
+      <description>Will be posted soon!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://azizamir.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://azizamir.github.io/portfolio/contact/</guid>
+      <description>If you&amp;rsquo;d like to discuss more on my project or interested in working together, please fill out the form below. I&amp;rsquo;d love to hear from you.
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>

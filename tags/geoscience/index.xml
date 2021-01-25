@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geoscience on Amirul Abdul Aziz</title>
+    <link>https://azizamir.github.io/portfolio/tags/geoscience/</link>
+    <description>Recent content in Geoscience on Amirul Abdul Aziz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://azizamir.github.io/portfolio/tags/geoscience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>World Earthquake and Volcanic Eruption Data Analysis</title>
+      <link>https://azizamir.github.io/portfolio/projects/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://azizamir.github.io/portfolio/projects/chapter-1/</guid>
+      <description>Will be posted soon!</description>
+    </item>
+    
+  </channel>
+</rss>
