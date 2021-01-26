@@ -6,14 +6,16 @@
     <description>Recent content in Aziz&#39;s Portfolio on Amirul Abdul Aziz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://azizamir.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://azizamir.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>World Earthquake and Volcanic Eruption Data Analysis</title>
-      <link>https://azizamir.github.io/portfolio/projects/chapter-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <title>World Latest Earthquake Data Analysis</title>
+      <link>https://azizamir.github.io/portfolio/projects/project-1/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://azizamir.github.io/portfolio/projects/chapter-1/</guid>
-      <description>Will be posted soon!</description>
+      <guid>https://azizamir.github.io/portfolio/projects/project-1/</guid>
+      <description>Tools: Python, Numpy, Plotly, Matplotlib, pandas, seaborn
+Earthquake data might be one of the most important data that ever recorded by humans. Proper utilization of earthquake data could significantly save a million lives and reduce earthquake damage. Apart from natural events, earthquakes also can be induced by human activities in form of fluids injection on oil and gas wells, surface and underground mining activities, or explosions.
+Using the past 30 days, from December 26, 2020, to January 25, 2021, earthquake events data around the world that I’ve got from the USGS website, I tried to analyze and visualize the dataset to determined several objectives such as, identify the most dominant earthquake magnitude values that have occurred for the past 30 days, analyze the dominant depth where the earthquake has occurred and it’s relation to data reliability, and visualize the earthquake data on the world map to identify the region where the earthquake has occurred for the past 30 days.</description>
     </item>
     
     <item>
