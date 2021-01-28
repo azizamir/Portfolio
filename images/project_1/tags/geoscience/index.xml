@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geoscience on Amirul Abdul Aziz</title>
+    <link>https://azizamir.github.io/portfolio/tags/geoscience/</link>
+    <description>Recent content in Geoscience on Amirul Abdul Aziz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://azizamir.github.io/portfolio/tags/geoscience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>World Latest Earthquake Data Analysis</title>
+      <link>https://azizamir.github.io/portfolio/projects/project-1/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://azizamir.github.io/portfolio/projects/project-1/</guid>
+      <description>Tools: Python, Numpy, Plotly, Matplotlib, pandas, seaborn
+Earthquake data might be one of the most important data that ever recorded by humans. Proper utilization of earthquake data could significantly save a million lives and reduce earthquake damage. Apart from natural events, earthquakes also can be induced by human activities in form of fluids injection on oil and gas wells, surface and underground mining activities, or explosions.
+Using the past 30 days, from December 26, 2020, to January 25, 2021, earthquake events data around the world that I’ve got from the USGS website, I tried to analyze and visualize the dataset to determined several objectives such as, identify the most dominant earthquake magnitude values that have occurred for the past 30 days, analyze the dominant depth where the earthquake has occurred and it’s relation to data reliability, and visualize the earthquake data on the world map to identify the region where the earthquake has occurred for the past 30 days.</description>
+    </item>
+    
+  </channel>
+</rss>
