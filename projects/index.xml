@@ -8,23 +8,22 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://azizamir.github.io/portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Supervised Learning Implementation for Electrofacies, Lithofacies, and Depositional Environment Prediction using K-Nearest Neighbors Algorithm</title>
+      <link>https://azizamir.github.io/portfolio/projects/project-1/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://azizamir.github.io/portfolio/projects/project-1/</guid>
+      <description>Tools: Python, Numpy, Matplotlib, pandas, jcopml, scikit-learn
+In this recent years, digitalization and automation have been massively transforming and leads global industries to a new era of technology. In line with the technology improvement, there is a high growth of interest in utilizing data to extract an insight that hopes will be an advantage for the industries to reach their objectives. This positive phenomenon also applies in the petroleum industry by utilizing machine learning to aid exploration activities, commercial decision making, and analyze past data to extract unseen data.</description>
+    </item>
+    
+    <item>
       <title>Nickel Laterite Exploration and Exploitation as Metals Resources Optimization and Indonesian Industry Support</title>
       <link>https://azizamir.github.io/portfolio/projects/essay-1/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://azizamir.github.io/portfolio/projects/essay-1/</guid>
       <description>The Indonesian region, which developed from an active and complex tectonic mechanism, has indirectly positive and negative impacts on this country. The negative impact experienced by the country is felt when plate movements occur in Indonesian territory, causing earthquakes and other geological disasters. However, the positive impact is that Indonesia gets long-term benefits that can be considered as a country natural asset, thanks to its tectonic and topographical patterns, namely the existence of mineralization pathways that cause abundant nickel laterite resources which are scattered in several regions of Indonesia, especially on the island of Sulawesi where if these natural resources are properly managed they can meet the needs of the community.</description>
-    </item>
-    
-    <item>
-      <title>World Latest Earthquake Data Analysis</title>
-      <link>https://azizamir.github.io/portfolio/projects/project-1/</link>
-      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://azizamir.github.io/portfolio/projects/project-1/</guid>
-      <description>Tools: Python, Numpy, Plotly, Matplotlib, pandas, seaborn
-Earthquake data might be one of the most important data that ever recorded by humans. Proper utilization of earthquake data could significantly save a million lives and reduce earthquake damage. Apart from natural events, earthquakes also can be induced by human activities in form of fluids injection on oil and gas wells, surface and underground mining activities, or explosions.
-Using the past 30 days, from December 26, 2020, to January 25, 2021, earthquake events data around the world that I’ve got from the USGS website, I tried to analyze and visualize the dataset to determined several objectives such as, identify the most dominant earthquake magnitude values that have occurred for the past 30 days, analyze the dominant depth where the earthquake has occurred and it’s relation to data reliability, and visualize the earthquake data on the world map to identify the region where the earthquake has occurred for the past 30 days.</description>
     </item>
     
   </channel>

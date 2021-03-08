@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Amirul Abdul Aziz</title>
+    <link>https://azizamir.github.io/portfolio/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Amirul Abdul Aziz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://azizamir.github.io/portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Supervised Learning Implementation for Electrofacies, Lithofacies, and Depositional Environment Prediction using K-Nearest Neighbors Algorithm</title>
+      <link>https://azizamir.github.io/portfolio/projects/project-1/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://azizamir.github.io/portfolio/projects/project-1/</guid>
+      <description>Tools: Python, Numpy, Matplotlib, pandas, jcopml, scikit-learn
+In this recent years, digitalization and automation have been massively transforming and leads global industries to a new era of technology. In line with the technology improvement, there is a high growth of interest in utilizing data to extract an insight that hopes will be an advantage for the industries to reach their objectives. This positive phenomenon also applies in the petroleum industry by utilizing machine learning to aid exploration activities, commercial decision making, and analyze past data to extract unseen data.</description>
+    </item>
+    
+  </channel>
+</rss>
