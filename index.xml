@@ -6,15 +6,23 @@
     <description>Recent content in Aziz&#39;s Portfolio on Amirul Abdul Aziz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://azizamir.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://azizamir.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bank Personal Loan Modelling</title>
+      <link>https://azizamir.github.io/portfolio/projects/project-2/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://azizamir.github.io/portfolio/projects/project-2/</guid>
+      <description>This project is about a bank which has a growing customer base where the majority of customers are depositors with varying size of deposits. Apart from the majority of customers that are depositors, several customers are also borrowers (asset customers). The bank planned to expand the asset customers to earn more through the interest on personal loans by converting the depositors (potential customers) to personal loan customers while retaining them as depositors.</description>
+    </item>
+    
     <item>
       <title>Supervised Learning Implementation for Electrofacies, Lithofacies, and Depositional Environment Prediction using K-Nearest Neighbors Algorithm</title>
       <link>https://azizamir.github.io/portfolio/projects/project-1/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://azizamir.github.io/portfolio/projects/project-1/</guid>
-      <description>Tools: Python, Numpy, Matplotlib, pandas, jcopml, scikit-learn
-In this recent years, digitalization and automation have been massively transforming and leads global industries to a new era of technology. In line with the technology improvement, there is a high growth of interest in utilizing data to extract an insight that hopes will be an advantage for the industries to reach their objectives. This positive phenomenon also applies in the petroleum industry by utilizing machine learning to aid exploration activities, commercial decision making, and analyze past data to extract unseen data.</description>
+      <description>In this recent years, digitalization and automation have been massively transforming and leads global industries to a new era of technology. In line with the technology improvement, there is a high growth of interest in utilizing data to extract an insight that hopes will be an advantage for the industries to reach their objectives. This positive phenomenon also applies in the petroleum industry by utilizing machine learning to aid exploration activities, commercial decision making, and analyze past data to extract unseen data.</description>
     </item>
     
     <item>
